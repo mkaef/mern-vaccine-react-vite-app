@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "level1_id": "01",
+      "name": "Even St",
+      "type": "Street",
+      "level2s": [
+        {
+          "level2_id": "001",
+          "name": "96th St",
+          "type": "Home",
+          "level3s": [
+            {
+              "level3_id": "00001",
+              "name": "Odessa",
+              "type": "Town"
+            },
+            {
+              "level3_id": "00004",
+              "name": "Dallas",
+              "type": "City"
+            },
+            {
+              "level3_id": "00006",
+              "name": "Hustown",
+              "type": "City"
+            },
+            {
+              "level3_id": "00007",
+              "name": "Sherman",
+              "type": "Town"
+            },
+            {
+              "level3_id": "00008",
+              "name": "Lubbock",
+              "type": "City"
+            },
+            {
+              "level3_id": "00010",
+              "name": "Lamessa",
+              "type": "Town"
+            },
+            {
+              "level3_id": "00013",
+              "name": "Texas",
+              "type": "State"
+            },
+            {
+              "level3_id": "00016",
+              "name": "New York",
+              "type": "State"
+            },
+            {
+              "level3_id": "00019",
+              "name": "Denison",
+              "type": "Town"
+            },
+            {
+              "level3_id": "00022",
+              "name": "Oklahoma",
+              "type": "State"
+            },
+            {
+              "level3_id": "00025",
+              "name": "Washigtown",
+              "type": "State"
+            },
+            {
+              "level3_id": "00028",
+              "name": "New Jersey",
+              "type": "State"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
